@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Transcribe Pro",
+  "description": "High-performance AI transcription for local media files (up to 5GB) and YouTube links. Powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}

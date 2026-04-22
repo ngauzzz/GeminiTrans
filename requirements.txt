@@ -1,0 +1,3 @@
+# Dự án đã chuyển sang Node.js/React.
+# Vui lòng xem hướng dẫn trong file README.md
+# Xóa file này nếu không cần thiết.
